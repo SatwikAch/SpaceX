@@ -15,7 +15,7 @@ The package requires a dependency that is not available on CRAN. Install
 it with:
 
 ``` r
-devtools::install_github("rdevito/MSFA")
+remotes::install_github("rdevito/MSFA")
 ```
 
 You can install the released version of SpaceX from

@@ -25,7 +25,7 @@ The goal of SpaceX is to provide shared and cluster specfic gene co-expression n
 The package requires a dependency that is not available on CRAN. Install it with:
 
 ``` r
-devtools::install_github("rdevito/MSFA")
+remotes::install_github("rdevito/MSFA")
 ```
 
 You can install the released version of SpaceX from (https://github.com/SatwikAch/SpaceX) with:
